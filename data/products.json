@@ -1,0 +1,30 @@
+[
+    { 
+            "id": 1, 
+            "name": "Milanesa a la Napolitana", 
+            "price": 7900, 
+            "image": "assets/milanesa.webp", 
+            "description": "Deliciosa milanesa de ternera cubierta con salsa de tomate, jamón y queso derretido." 
+        },
+        { 
+            "id": 2, 
+            "name": "Pastel de Papas", 
+            "price": 6800, 
+            "image": "assets/pastel.jpg", 
+            "description": "Pastel de carne sazonado, cubierto con una capa de puré de papas dorado en el horno." 
+        },
+        { 
+            "id": 3, 
+            "name": "Tapa de Nalga Caramelizada", 
+            "price": 8500, 
+            "image": "assets/tapa.jpg", 
+            "description": "Ternera de primera calidad, cocida a fuego lento en una salsa de caramelo y especias." 
+        },
+        { 
+            "id": 4, 
+            "name": "Tortilla de Especialidad", 
+            "price": 5400, 
+            "image": "assets/tortilla.jpg", 
+            "description": "Tortilla española con una variedad de ingredientes frescos y sabrosos." 
+        }
+        ]
